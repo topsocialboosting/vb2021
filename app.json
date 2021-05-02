@@ -1,1 +1,119 @@
 
+[{
+    "id": 2,
+    "question": "Which popular Shotgun was vaulted at the start of Season 5?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "actical Shotgun",
+    "option2": "Lever Action Shotgun",
+    "option3": "Pump Shotgun",
+    "option4": "Charge Shotgun",
+    "correct": 3
+},{
+    "id": 1,
+    "question": "Where can Carbonite Peely easter egg be found?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "Stealthy Stronghold",
+    "option2": "Misty Meadows",
+    "option3": "Slurpy Swamp",
+    "option4": "Hunter's Haven",
+    "correct": 4
+},{
+    "id": 3,
+    "question": "What tier of the Battle Pass is Mave's skin unlocked at?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "15",
+    "option2": "29",
+    "option3": "41",
+    "option4": "60",
+    "correct": 3
+},{
+    "id": 4,
+    "question": "Which of these songs can you currently hear on the Power Play radio station?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "Runaway (U & I) - Galantis",
+    "option2": "Talk - Khalid, Disclosure",
+    "option3": "Roses - SAINt JHN, Imanbek",
+    "option4": "Con Altura - ROSALIA, J Balvin, El Guincho",
+    "correct": 2
+},{
+    "id": 5,
+    "question": "How much damage does The Mandalorian’s Amban Sniper Rifle deal?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "90",
+    "option2": "110",
+    "option3": "130",
+    "option4": "150",
+    "correct": 2
+},{
+    "id": 6,
+    "question": "Which location on the Season 5 map has the highest amount of eliminations?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "Salty Towers",
+    "option2": "Stealthy Stronghold",
+    "option3": "Hunter's Haven",
+    "option4": "Pleasant Park",
+    "correct": 1
+},{
+    "id": 7,
+    "question": "What is the maximum amount of Gold Bars you can hold?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "5000",
+    "option2": "10000",
+    "option3": "15000",
+    "option4": "20000",
+    "correct": 2
+},{
+    "id": 8,
+    "question": "Which NPC can you buy the exotic Night Hawk revolver from?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "Blaze",
+    "option2": "Fishstick",
+    "option3": "Mancake",
+    "option4": "Splode",
+    "correct": 3
+},{
+    "id": 9,
+    "question": "What quest unlocks Predator's Hunter’s Trophy back bling?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "Defeat Predator",
+    "option2": "Complete a Bounty as Predator",
+    "option3": "Visit Predator’s apartment",
+    "option4": "Deal damage while thermal is active as Predator",
+    "correct": 2
+},{
+    "id": 10,
+    "question": "How much resistance does an iron wall have?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "100",
+    "option2": "500",
+    "option3": "400",
+    "option4": "350",
+    "correct": 3
+},{
+    "id": 11,
+    "question": "How much does it cost to build a brick staircase?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "5",
+    "option2": "10",
+    "option3": "20",
+    "option4": "15",
+    "correct": 2
+},{
+    "id": 12,
+    "question": "How much life does a blow with the beak take away?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "12",
+    "option2": "5",
+    "option3": "15",
+    "option4": "10",
+    "correct": 4
+},{
+    "id": 13,
+    "question": "How many seconds does it take to use a medicine cabinet?",
+    "image": "https://i.ibb.co/NVQYPJC/image1.png",
+    "option1": "10",
+    "option2": "7.5",
+    "option3": "12",
+    "option4": "15",
+    "correct": 1
+}]
